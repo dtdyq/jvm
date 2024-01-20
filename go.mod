@@ -1,4 +1,4 @@
-module jvm
+module github.com/dtdyq/jvm
 
 go 1.21
 
