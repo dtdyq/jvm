@@ -12,6 +12,7 @@ import (
 )
 
 const JdkHomeLinkPath = "/usr/local/jvmjdkhome"
+const JdkExeLinkPath = "/usr/local/jvmjdkhome/bin"
 
 func SetupJavaHomeAndPath() {
 
